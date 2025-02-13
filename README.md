@@ -19,7 +19,7 @@ type token =
   | IntLiteral of int
   | Identifier of string
   | Unknown of string
-
+```
 ### Functions:-
 #### Keywords, Operators, Punctuation:- 
 - Gives a list that consists of some predefined sets of keywords, operators and punctuation.
