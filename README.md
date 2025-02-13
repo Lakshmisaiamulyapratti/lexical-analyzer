@@ -63,9 +63,9 @@ Punctuation: ;
 
 - Next, we compile the code by using below command:-
 
-ocamlc -o tokenizer tokenizer.ml
+``` ocamlc -o tokenizer tokenizer.ml ```
 
 - After, we run the code by using the below command:-
 
-./tokenizer
+``` ./tokenizer ```
 
