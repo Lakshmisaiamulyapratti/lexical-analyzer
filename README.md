@@ -11,8 +11,8 @@ The OCaml program that is implemented here is a common or basic tokenizer that i
 ## Structure:-
 ### Types:-
 - Here, the program defines 6 types of tokens;
-
-```type token =
+```ocaml
+type token =
   | Keyword of string
   | Operator of string
   | Punctuation of string
