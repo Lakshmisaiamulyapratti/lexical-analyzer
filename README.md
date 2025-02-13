@@ -49,13 +49,21 @@ type token =
 
 ### Sample Test Case:-
 Enter input string: let y = 2 + 7;
+
 Generated tokens from the given input string:
+
 Keyword: let
+
 Identifier: y
+
 Operator: =
+
 IntLiteral: 2
+
 Operator: +
+
 IntLiteral: 7
+
 Punctuation: ;
 
 ## How to compile & run in the Ubuntu command prompt:-
